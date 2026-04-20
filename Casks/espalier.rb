@@ -3,8 +3,8 @@
 # publish. See docs/release/README.md for the bootstrap procedure.
 
 cask "espalier" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.0.1"
+  sha256 "fb7dc7e452159c909fc15c618fe9030902e15b03754417a87baaf4a55ee78884"
 
   url "https://github.com/btucker/espalier/releases/download/v#{version}/Espalier-#{version}.zip"
   name "Espalier"
