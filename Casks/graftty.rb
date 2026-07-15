@@ -3,8 +3,8 @@
 # publish. See docs/release/README.md for the bootstrap procedure.
 
 cask "graftty" do
-  version "0.2.0"
-  sha256 "d18aa502a0a6cd55c437f2f1a885e6669a425396002cfaa21afd205a9e97d3a5"
+  version "0.2.1"
+  sha256 "244945608814a7ff922dd73df57f21dacb04bd50a3fb269b5e66d43e0fe9e7e0"
 
   url "https://github.com/btucker/graftty/releases/download/v#{version}/Graftty-#{version}.zip"
   name "Graftty"
